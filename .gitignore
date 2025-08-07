@@ -1,0 +1,8 @@
+# Ignore user-specific configs
+.DS_Store
+
+# DO NOT ignore virtual environments
+# So DON'T add this if you want to keep it tracked:
+# .env/
+# .venv/
+venv
