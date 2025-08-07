@@ -1,4 +1,13 @@
-# 🐼 Learn Basic Pandas in 15 Qs
+
+
+# <h1 align="center">🐼 Learn Basic Pandas in 15 Qs 🐚  Kaneki</h1>
+
+<p align="center">
+  <a href="https://github.com/KanekiEzz/1337_Cub3D_42">
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" alt="42 Badge">
+  </a>
+</p>
+<pr>
 
 > 🚀 **Master pandas fundamentals through 15 interactive questions and hands-on exercises**
 
