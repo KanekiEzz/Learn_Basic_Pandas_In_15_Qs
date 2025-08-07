@@ -5,4 +5,5 @@
 # So DON'T add this if you want to keep it tracked:
 # .env/ 
 # .venv/
+# git rm -r --cached venv/
 venv/
